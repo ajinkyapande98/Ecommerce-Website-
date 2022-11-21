@@ -16,3 +16,30 @@ code {
 .App {
   text-align: center;
 }
+
+.cards {
+  border: 1px solid black;
+  height: 240px;
+  position: relative;
+  width: 180px;
+  top: 50px;
+}
+.img-wrapper img {
+  height: 150px;
+  width: 100%;
+  border: 1px solid black;
+}
+.cart-btn {
+  height: 30px;
+  width: 110px;
+  text-align: center;
+  background-color: red;
+}
+
+.add-to-cart img {
+  height: 40px;
+  width: 40px;
+  right: -46%;
+  top: 15px;
+  position: relative;
+}

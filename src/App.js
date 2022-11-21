@@ -1,8 +1,8 @@
-import HomeContainer from "./Containers/Components/HomeContainer";
+import Home from "./Containers/Home";
 function App() {
   return (
     <div className="App">
-      <HomeContainer />
+      <Home />
     </div>
   );
 }
